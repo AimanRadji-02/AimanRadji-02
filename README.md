@@ -48,7 +48,7 @@ I'm passionate about transforming data into actionable insights through **Data A
 
 ## 🤝 Let's Connect
 
-- LinkedIn: *(add your link)*
-- Email: *(your professional email)*
+- LinkedIn: *https://www.linkedin.com/in/aiman-radji-a5123729a/*
+- Email: *aimanradji02@gmail.com*
 
 > *"Learning continuously, building with purpose, and creating impact through data."*
